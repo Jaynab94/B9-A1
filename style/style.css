@@ -10,6 +10,7 @@ body {
 }
 
 
+
 /* header section design */
 header {
     margin: 50px 140px 0px 140px;
@@ -106,7 +107,7 @@ header {
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
-    margin: 0px 140px 120px 140px;
+    margin: 0px 140px 140px;
 
 
 }
@@ -163,6 +164,17 @@ header {
 
 /* event place section */
 
+.place-container {
+    background-color: lightcyan;
+    width: 1250px;
+    height: 482px;
+    margin: 120px 140px;
+
+
+
+
+}
+
 .color-word {
     color: #F00;
 }
@@ -174,5 +186,17 @@ header {
     color: white;
     background: #F00;
     padding: 10px 32px;
-    
+
+
+
+
 }
+
+.place-section {
+    text-align: center;
+    padding: 150px;
+}
+
+
+
+.section-title {}
