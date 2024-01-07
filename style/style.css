@@ -93,5 +93,86 @@ header {
 
     width: 800px;
     margin: 0px 390px 120px 390px;
-   
+
+}
+
+/* party timing section */
+
+.party-container {
+
+    background-image: url('../resources/Vectorrr.png');
+
+
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    margin: 0px 140px 120px 140px;
+
+
+}
+
+
+
+
+
+.party-title {
+    color: #FFF;
+
+    font-weight: 900;
+    font-size: 50px;
+    letter-spacing: 7.04px;
+    padding-left: 120px;
+    padding-top: 126px;
+}
+
+.party-description {
+
+    color: rgba(255, 255, 255, 0.80);
+
+    font-size: 18px;
+
+    font-weight: 400;
+    width: 500px;
+    padding-left: 126px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+
+}
+
+.btn-button {
+    color: #FFF;
+    font-size: 20px;
+    background-color: rgb(48, 52, 54);
+
+    font-size: 20px;
+    margin-left: 126px;
+
+
+
+
+
+}
+
+
+.year-img {
+
+
+    margin-left: 270px;
+
+}
+
+/* event place section */
+
+.color-word {
+    color: #F00;
+}
+
+
+.second-button {
+
+    border-radius: 5px;
+    color: white;
+    background: #F00;
+    padding: 10px 32px;
+    
 }
