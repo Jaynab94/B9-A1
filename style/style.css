@@ -492,9 +492,9 @@ ul li {
 /* holiday sell 50% section design */
 
 .hoiliday-sell-container {
-    
+
     margin-top: 120px;
-  
+
 
     margin-left: 120px;
 }
@@ -509,7 +509,7 @@ ul li {
     margin-bottom: 16px;
     margin-left: 600px;
 
-    
+
 
 }
 
@@ -540,13 +540,29 @@ ul li {
 
 .holiday-description {
     color: rgba(7, 2, 17, 0.60);
-   
-  
+
+
     font-size: 20px;
-   
+
     font-weight: 500;
     width: 1070px;
     margin-left: 400px;
-    
+    margin-bottom: 65px;
+
 
 }
+
+
+.discount {
+    background-image: url('../resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    width: 429px;
+    height: 433px;
+    background-position: bottom;
+  
+
+
+
+}
+
+.image2 {}
