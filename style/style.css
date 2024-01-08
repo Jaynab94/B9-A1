@@ -276,13 +276,117 @@ header {
 
 /* footer section */
 
-.footer-container {
 
-    margin: 120px 20px;
+footer {
+    background-color: black;
+
+    width: 1600px;
+    height: 600px;
+    margin-bottom: 0px;
+
+
+
 }
 
+
+.office-adress-section {
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+ul li {
+    list-style: none;
+
+
+}
+
+.list-1 {
+    margin-right: 16px;
+
+
+}
+
+
+
+.office-adress {
+
+
+    color: #FFF;
+
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 145px;
+    margin-top: 120px
+}
+
+.adress-container {
+
+    margin-top: 120px;
+    margin-right: 300px;
+}
+
+
+.website-icon {
+
+    color: #e7e1e9;
+}
+
+
+.social-media {
+
+    text-align: center;
+    margin-top: 150px;
+
+
+
+
+}
+
+
+
+.end-footer {
+
    
+    display: flex;
+    justify-content: space-between;
+    margin: 120px 140px 120px 140px;
 
 
+
+}
+
+
+
+
+.all-reserved {
+
+    color: #FFF;
+
+    font-size: 24px;
+
+    font-weight: 500;
+
+
+
+
+
+}
+
+.usubscribe-button {
+
+    color: #FFF;
+
+    font-size: 24px;
+
+    font-weight: 500;
+    
+    
+    
+
+
+}
 
 
