@@ -54,7 +54,8 @@ header {
 
 .offer-section {
 
-    text-align: center;
+    margin-bottom: 120px;
+
 
 }
 
@@ -64,6 +65,7 @@ header {
     font-size: 88px;
 
     font-weight: 700;
+    margin: 120px 600px 0px 600px;
 
 }
 
@@ -73,10 +75,8 @@ header {
     font-size: 24px;
 
     font-weight: 500;
-    margin-top: 48px;
-    margin-bottom: 16px;
-
-
+    margin: 48px 600px 16px;
+    600px
 }
 
 
@@ -86,7 +86,8 @@ header {
     font-size: 48px;
 
     font-weight: 700;
-    margin-bottom: 48px;
+
+    margin: 16px 600px 48px 600px;
 
 }
 
@@ -99,68 +100,44 @@ header {
 
 /* party timing section */
 
-.party-container {
-
+.party-section {
     background-image: url('../resources/Vectorrr.png');
 
-
     background-repeat: no-repeat;
-    background-position: center;
-    display: flex;
-    margin: 0px 140px 140px;
+    margin-left: 140px;
 
 
 }
 
+.party-ditails-section {
 
 
-
+}
 
 .party-title {
-    color: #FFF;
+  
 
-    font-weight: 900;
-    font-size: 50px;
-    letter-spacing: 7.04px;
-    padding-left: 120px;
-    padding-top: 126px;
+
 }
 
 .party-description {
 
-    color: rgba(255, 255, 255, 0.80);
-
-    font-size: 18px;
-
-    font-weight: 400;
-    width: 500px;
-    padding-left: 126px;
-    margin-top: 24px;
-    margin-bottom: 48px;
-
-}
-
-.btn-button {
-    color: #FFF;
-    font-size: 20px;
-    background-color: rgb(48, 52, 54);
-
-    font-size: 20px;
-    margin-left: 126px;
-
-
-
-
-
+  
 }
 
 
-.year-img {
 
 
-    margin-left: 270px;
 
-}
+
+
+
+
+
+
+
+
+
 
 /* event place section */
 
@@ -349,7 +326,7 @@ ul li {
 
 .end-footer {
 
-   
+
     display: flex;
     justify-content: space-between;
     margin: 120px 140px 120px 140px;
@@ -382,11 +359,9 @@ ul li {
     font-size: 24px;
 
     font-weight: 500;
-    
-    
-    
+
+
+
 
 
 }
-
-
