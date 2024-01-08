@@ -427,7 +427,7 @@ ul li {
 
     font-weight: 900;
     margin-bottom: 22px;
-    
+
 
 }
 
@@ -489,4 +489,64 @@ ul li {
 
 }
 
-.circle-border {}
+/* holiday sell 50% section design */
+
+.hoiliday-sell-container {
+    
+    margin-top: 120px;
+  
+
+    margin-left: 120px;
+}
+
+.holiday-title {
+
+    color: #070211;
+
+    font-size: 24px;
+
+    font-weight: 500;
+    margin-bottom: 16px;
+    margin-left: 600px;
+
+    
+
+}
+
+
+.title-bar {
+
+    color: #070211;
+
+    font-size: 72px;
+
+    font-weight: 900;
+    margin-left: 400px;
+    margin-bottom: 28px;
+}
+
+
+.holiday-colore {
+
+    color: #F00;
+
+
+    font-size: 72px;
+
+    font-weight: 900;
+
+
+}
+
+.holiday-description {
+    color: rgba(7, 2, 17, 0.60);
+   
+  
+    font-size: 20px;
+   
+    font-weight: 500;
+    width: 1070px;
+    margin-left: 400px;
+    
+
+}
