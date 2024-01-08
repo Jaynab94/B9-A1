@@ -65,7 +65,7 @@ header {
     font-size: 88px;
 
     font-weight: 700;
-    margin: 120px 600px 0px 600px;
+    margin: 0px 600px 0px 600px;
 
 }
 
@@ -102,40 +102,66 @@ header {
 
 .party-section {
     background-image: url('../resources/Vectorrr.png');
-
     background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+
+
+    display: flex;
+
     margin-left: 140px;
 
 
 }
 
-.party-ditails-section {
-
-
-}
+.party-ditails-section {}
 
 .party-title {
-  
+    margin-top: 126px;
+    margin-left: 126px;
+    color: #FFF;
+
+    font-size: 64px;
+
+    font-weight: 900;
 
 
+    letter-spacing: 7.04px;
+    width: 642px;
 }
 
 .party-description {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
 
-  
+    font-weight: 400;
+
+
+    width: 697px;
+    margin-top: 32px;
+    margin-left: 126px;
 }
 
 
+.btn-button {
+    color: #3e0d0d;
 
+    font-size: 20px;
 
+    font-weight: 700;
+    margin-top: 48px;
+    margin-left: 126px;
 
+}
 
+.year-img {
+    margin-left: 80px;
+    margin-top: 68px;
 
-
-
-
-
-
+    width: 315px;
+    height: 460px;
+}
 
 
 
