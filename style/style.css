@@ -62,7 +62,7 @@ header {
 .offer-title {
     color: #F00;
 
-    font-size: 88px;
+    font-size: 65px;
 
     font-weight: 700;
     margin: 0px 600px 0px 600px;
@@ -72,7 +72,7 @@ header {
 .offer-description {
     color: #F00;
 
-    font-size: 24px;
+    font-size: 18px;
 
     font-weight: 500;
     margin: 48px 600px 16px;
@@ -83,7 +83,7 @@ header {
 .offer-catagori {
     color: #070211;
 
-    font-size: 48px;
+    font-size: 30px;
 
     font-weight: 700;
 
@@ -457,7 +457,7 @@ ul li {
 
 
 
-
+/* holiday sell section design */
 
 
 
